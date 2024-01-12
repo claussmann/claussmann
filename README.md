@@ -1,7 +1,3 @@
-**Bio:** Computer scientist for computational social choice; full-stack software developer.
-
-**Interests:**  Computational social choice  •  cryptography  •  blockchain  •  programming  •  space
-
 **Languages:**
 
 |    |    |
