@@ -25,5 +25,5 @@
 - **2022** *EUMAS Conference* at HHU (co-organizer)
 - **2022** *Theoretical Computer Science* at HHU (exercise groups)
 
-![logo](https://github.com/claussmann/claussmann/assets/42671400/8e1c114b-3809-4bf2-9735-ad50e776f569)
-[ + ]
+
+[ + ] Jan 2024
