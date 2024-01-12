@@ -6,3 +6,9 @@
 - **Voting for Centrality (extended abstract)** by *Ulrik Brandes, Christian Laussmann, and Jörg Rothe* in *AAMAS-2022*
 
 
+## Teaching and Events
+
+- **2023** *Fair Division* at HHU (exercise groups)
+- **2020--2023** *Preliminary Course Computer Science* at HHU (co-organizer, prepared materials, taught students)
+- **2022** *EUMAS Conference* at HHU (co-organizer)
+- **2022** *Theoretical Computer Science* at HHU (exercise groups)
