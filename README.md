@@ -3,12 +3,13 @@
 **Interests:**  Computational social choice  •  cryptography  •  blockchain  •  programming  •  space
 
 **Languages:**
-- Python: :trophy::trophy::trophy::trophy::trophy:
-- Java: :trophy::trophy::trophy:
-- HTML/CSS: :trophy::trophy::trophy:
-- JavaScript: :trophy::trophy:
-- Rust: :trophy:
-- C/C++: :trophy:
+
+|    |    |
+|----|----|
+| Python: :trophy::trophy::trophy: :hearts::hearts::hearts: | Java: :trophy::trophy::trophy: :hearts: |
+| HTML/CSS: :trophy::trophy::trophy: :hearts::hearts: | JavaScript: :trophy::trophy: :hearts::hearts: |
+| Rust: :trophy: :hearts::hearts::hearts: | C/C++: :trophy: :hearts: |
+
 
 
 ### Research
