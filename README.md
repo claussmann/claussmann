@@ -19,6 +19,12 @@
 - **Voting for Centrality (extended abstract)** by *Ulrik Brandes, Christian Laussmann, and Jörg Rothe* in *AAMAS-2022*
 
 
+### Work
+- **Full-stack Developer** at RheinEnergie, Cologne
+- **Scientific Assistant** at Heinrich-Heine-University, Düsseldorf
+- **System Administrator (working student)** at Deutsche Welle, Bonn
+
+
 ### Teaching and Events
 
 - **2023** *Fair Division* at HHU (exercise groups)
