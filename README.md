@@ -1,9 +1,8 @@
 
-|    |    |    |
-|----|----|----|
-| Python: :trophy::trophy::trophy: :hearts::hearts::hearts: | Java: :trophy::trophy::trophy: :hearts: | HTML/CSS: :trophy::trophy::trophy: :hearts::hearts: |
-| JavaScript: :trophy::trophy: :hearts::hearts: | Rust: :trophy: :hearts::hearts::hearts: | C/C++: :trophy: :hearts: |
-| Bash: :trophy::trophy: :hearts: | Powershell: :trophy::trophy: :hearts::hearts: |  |
+|    |    |    |    |
+|----|----|----|----|
+| Python: :trophy::trophy::trophy: :hearts::hearts::hearts: | Java: :trophy::trophy::trophy: :hearts: | HTML/CSS: :trophy::trophy::trophy: :hearts::hearts: | JavaScript: :trophy::trophy: :hearts::hearts: |
+| Rust: :trophy: :hearts::hearts::hearts: | C/C++: :trophy: :hearts: | Bash: :trophy::trophy: :hearts: | Powershell: :trophy::trophy: :hearts::hearts: |  |
 
 
 ### Research
