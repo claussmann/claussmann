@@ -1,7 +1,9 @@
-|    |    |    |    |
-|----|----|----|----|
-| Python: :trophy::trophy::trophy: :hearts::hearts::hearts: | Java: :trophy::trophy::trophy: :hearts: | HTML/CSS: :trophy::trophy::trophy: :hearts::hearts: | JavaScript: :trophy::trophy: :hearts::hearts: |
-| Rust: :trophy: :hearts::hearts::hearts: | C/C++: :trophy: :hearts: | Bash: :trophy::trophy: :hearts: | Powershell: :trophy::trophy: :hearts::hearts: |  |
+### Interests / Skills
+
+COMSOC &nbsp; · &nbsp; Machine Learning &nbsp; · &nbsp; Data Science &nbsp; · &nbsp; Algorithms &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Security &nbsp; · &nbsp; Blockchain &nbsp; · &nbsp; Physics
+
+Python: :trophy::trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; Java: :trophy::trophy::trophy: :hearts: &nbsp; · &nbsp; JavaScript: :trophy::trophy: :hearts::hearts: &nbsp; · &nbsp; Rust: :trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; C/C++: :trophy: :hearts:
+
 
 
 ### Research
@@ -12,10 +14,14 @@
 - **Voting for Centrality (extended abstract)** by *U. Brandes, C. Laussmann, and J. Rothe* in *AAMAS-2022*
 
 
+
+
 ### Work
 - **Full-stack Developer** at RheinEnergie, Cologne
 - **Scientific Assistant** at Heinrich-Heine-University, Düsseldorf
 - **System Administrator (working student)** at Deutsche Welle, Bonn
+
+
 
 
 ### Teaching and Events
@@ -26,4 +32,6 @@
 - **2022** *Theoretical Computer Science* at HHU (exercise groups)
 
 
-[ + ] Jan 2024
+
+
+[ + ] Feb 2024
