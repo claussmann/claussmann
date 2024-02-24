@@ -8,6 +8,7 @@ Python: :trophy::trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; Java:
 
 ### Research
 
+- **Apportionment with Thresholds: Strategic Campaigns are Easy in the Top-Choice but Hard in the Second-Chance Mode** by *C. Laussmann, J. Rothe, T. Seeger* in *SOFSEM 2024*
 - **COMSOC Methods in Real-World Applications** by *C. Laussmann* in *ULB Düsseldorf*
 - **Bounded Approval Ballots: Balancing Expressiveness and Simplicity for Multiwinner Elections** by *D. Baumeister, L. Boes, C. Laussmann, and S. Rey* in *AAMAS-2023*
 - **Time-Constrained Participatory Budgeting Under Uncertain Project Costs** by *D. Baumeister, L. Boes, and C. Laussmann* in *IJCAI-2022*
