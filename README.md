@@ -1,8 +1,10 @@
+
+
 ### Interests / Skills
 
 COMSOC &nbsp; · &nbsp; Machine Learning &nbsp; · &nbsp; Data Science &nbsp; · &nbsp; Algorithms &nbsp; · &nbsp; Linux &nbsp; · &nbsp; Security &nbsp; · &nbsp; Blockchain &nbsp; · &nbsp; Physics
 
-Python: :trophy::trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; Java: :trophy::trophy::trophy: :hearts: &nbsp; · &nbsp; JavaScript: :trophy::trophy: :hearts::hearts: &nbsp; · &nbsp; Rust: :trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; C/C++: :trophy: :hearts:
+Python: :trophy::trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; Java: :trophy::trophy::trophy: :hearts: &nbsp; · &nbsp; JavaScript: :trophy::trophy: :hearts::hearts: &nbsp; · &nbsp; Rust: :trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; C/C++: :trophy: :hearts:
 
 
 
@@ -32,7 +34,7 @@ Python: :trophy::trophy::trophy: :hearts::hearts::hearts: &nbsp; · &nbsp; Java:
 - **2022** *EUMAS Conference* at HHU (co-organizer)
 - **2022** *Theoretical Computer Science* at HHU (exercise groups)
 
+---
+**" Mathematics must be respected "**
 
-
-
-[ + ] Feb 2024
+[ + ] Mar 2024
